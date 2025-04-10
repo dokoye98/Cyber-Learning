@@ -1,0 +1,7 @@
+env
+generatedPasswords.txt
+hashes.txt
+rainbowTable.txt
+*.exe
+*.txt
+.terraform/

@@ -1,0 +1,5 @@
+.venv
+firebase_credentials.json
+approved_users.txt
+__pycache__
+.env
