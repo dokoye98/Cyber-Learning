@@ -3,7 +3,7 @@ import time
 import random
 
 # Replace with your Device Connection String
-CONNECTION_STRING = "HostName=iothub-dwayne-lab.azure-devices.net;DeviceId=Device1;SharedAccessKey=+DcEQDqu8GKx66LPtrgSXDhSGCeAHlhaPClv5a1iEgM="
+CONNECTION_STRING = "Your_Device_Connection_String_Here"
 
 # Create an IoT Hub client
 client = IoTHubDeviceClient.create_from_connection_string(CONNECTION_STRING)
